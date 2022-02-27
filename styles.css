@@ -25,7 +25,7 @@ body{
      display:block;
     
     
-     width: 43%;
+     width: 50%;
      margin: 20px auto;
     
   
@@ -73,8 +73,8 @@ body{
 }
 .container{
     border: 2px solid white;
-    margin: 26px -87px;
-    padding: 18px 80px;
+    margin: 26px -125px;
+    padding: 18px 52px;
     width: 35%;
     border-radius: 30px;
     position: absolute;
